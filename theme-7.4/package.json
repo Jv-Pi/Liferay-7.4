@@ -9,7 +9,9 @@
     "author": "",
     "license": "ISC",
     "devDependencies": {
-        "gulp": "^4.0.2",
-        "gulp-cli": "^2.3.0"
+        "gulp": "^3.9.1",
+        "gulp-cli": "^2.3.0",
+        "gulp-update": "^0.0.2",
+        "sudo": "^1.0.3"
     }
 }
